@@ -21,19 +21,19 @@
 ---
 
 ##  Features
-✨ Title Verification
+✨ Title Verification:
 Ensure the title meets specified criteria and requirements.
 
-✅ Title Validation
+✅ Title Validation:
 Confirm that the title follows proper formatting and guidelines.
 
-🆕 New Trademark Addition
+🆕 New Trademark Addition:
 Add new trademarks seamlessly to the database.
 
-🔄 Two Title Comparison
+🔄 Two Title Comparison:
 Compare two titles side-by-side to spot differences or similarities.
 
-📊 View Database
+📊 View Database:
 Access and review all stored titles and trademarks in the database.
 ---
 

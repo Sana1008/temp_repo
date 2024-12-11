@@ -1,50 +1,40 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">TRADE-SAARTHI-BACKEND</h1></p>
-<p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Smart-India-Hackathon-24/trade-saarthi-backend?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Smart-India-Hackathon-24/trade-saarthi-backend?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Smart-India-Hackathon-24/trade-saarthi-backend?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Smart-India-Hackathon-24/trade-saarthi-backend?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
-
+## ABHIMANYU_MV
 ##  Table of Contents
 
 - [ Overview](#-overview)
 - [ Features](#-features)
 - [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
 - [ Getting Started](#-getting-started)
   - [ Prerequisites](#-prerequisites)
   - [ Installation](#-installation)
   - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
 - [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 
 ---
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+**This project is designed to verify the accuracy and relevance of titles using a combination of efficient algorithms, vector databases, and similarity checks. By integrating techniques such as cosine similarity, fuzzy matching, and Levenshtein distance, the system ensures that titles align closely with their associated content. The use of Redis for quick data access further enhances the system's performance and scalability.**
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+1. Vector Database Integration
+Utilizes vector databases (such as Redis) to store and retrieve embeddings efficiently for quick similarity searches.
+2. Cosine Similarity Matching
+Measures the similarity between title and content vectors to determine relevance by calculating cosine similarity scores.
+3. Fuzzy Matching
+Implements fuzzy string matching techniques to handle partial matches and identify titles with slight variations or typos.
+4. Levenshtein Distance
+Calculates the edit distance between strings to detect minor discrepancies, such as spelling errors or character swaps.
+5. Combination Algorithm
+Combines multiple similarity measures (cosine similarity, fuzzy matching, and Levenshtein distance) to improve accuracy and reliability of title verification.
+6. Similarity Check
+Performs a comprehensive similarity check to provide a confidence score for each title-to-content comparison.
+7. Fast and Scalable
+Utilizes Redis for rapid data storage and retrieval, making the system capable of handling large datasets efficiently.
 
 ---
 
@@ -87,110 +77,6 @@
 ```
 
 
-###  Project Index
-<details open>
-	<summary><b><code>TRADE-SAARTHI-BACKEND/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/app.py'>app.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- functions Submodule -->
-		<summary><b>functions</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/functions/RestrictedListsFunctions.py'>RestrictedListsFunctions.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/functions/CsvOperations.py'>CsvOperations.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/functions/AddCacheToRedis.py'>AddCacheToRedis.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- config Submodule -->
-		<summary><b>config</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/config/database.py'>database.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/config/RedisConfig.py'>RedisConfig.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- models Submodule -->
-		<summary><b>models</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/models/TradeMarkModel.py'>TradeMarkModel.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- routes Submodule -->
-		<summary><b>routes</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/routes/RestrictedWordsRoutes.py'>RestrictedWordsRoutes.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/routes/RedisRoutes.py'>RedisRoutes.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/routes/TradeMarkRoute.py'>TradeMarkRoute.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/routes/TitleCombinationRoute.py'>TitleCombinationRoute.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/routes/RestrictedPrefixSuffixRoutes.py'>RestrictedPrefixSuffixRoutes.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- utils Submodule -->
-		<summary><b>utils</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/master/utils/path_utils.py'>path_utils.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
-
----
 ##  Getting Started
 
 ###  Prerequisites
@@ -226,9 +112,6 @@ Install trade-saarthi-backend using one of the following methods:
 ❯ pip install -r requirements.txt
 ```
 
-
-
-
 ###  Usage
 Run trade-saarthi-backend using the following command:
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
@@ -237,76 +120,8 @@ Run trade-saarthi-backend using the following command:
 ❯ python {entrypoint}
 ```
 
-
-###  Testing
-Run the test suite using the following command:
-**Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
-
-```sh
-❯ pytest
-```
-
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-##  Contributing
-
-- **💬 [Join the Discussions](https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/issues)**: Submit bugs found or log feature requests for the `trade-saarthi-backend` project.
-- **💡 [Submit Pull Requests](https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
-<summary>Contributing Guidelines</summary>
-
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
-   ```sh
-   git clone https://github.com/Smart-India-Hackathon-24/trade-saarthi-backend
-   ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
-   ```sh
-   git checkout -b new-feature-x
-   ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/Smart-India-Hackathon-24/trade-saarthi-backend/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Smart-India-Hackathon-24/trade-saarthi-backend">
-   </a>
-</p>
-</details>
-
----
-
 ##  License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---

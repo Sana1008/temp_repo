@@ -1,4 +1,4 @@
-#ABHIMANYU_MV
+## ABHIMANYU_MV 
 
 ##  Table of Contents
 
@@ -21,13 +21,20 @@
 ---
 
 ##  Features
+✨ Title Verification
+Ensure the title meets specified criteria and requirements.
 
-✨ Title Verification  
-✅ Title Validation  
-🆕 New Trademark Addition  
-🔄 Two Title Comparison  
+✅ Title Validation
+Confirm that the title follows proper formatting and guidelines.
+
+🆕 New Trademark Addition
+Add new trademarks seamlessly to the database.
+
+🔄 Two Title Comparison
+Compare two titles side-by-side to spot differences or similarities.
+
 📊 View Database
-
+Access and review all stored titles and trademarks in the database.
 ---
 
 ##  Project Structure

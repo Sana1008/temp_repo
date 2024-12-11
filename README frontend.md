@@ -1,3 +1,4 @@
+#ABHIMANYU_MV
 
 ##  Table of Contents
 
@@ -9,17 +10,13 @@
   - [ Prerequisites](#-prerequisites)
   - [ Installation](#-installation)
   - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
 - [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-
 ---
 
 ##  Overview
 
-**Trademark Sarthi provides an interface that allows seamless verification of title for registaration and also provide probability of title getting accpeted. It has another module that allows the comparision between two titles provided by user.**
+**Trademark Sarthi provides an interface that allows seamless verification of title for registaration and also provide probability of title getting accpeted.**
 
 ---
 
@@ -69,224 +66,10 @@
 ```
 
 
-###  Project Index
-<details open>
-	<summary><b><code>TRADE-SAARTHI-FRONTEND/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/next.config.ts'>next.config.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/tsconfig.json'>tsconfig.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/postcss.config.mjs'>postcss.config.mjs</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/tailwind.config.ts'>tailwind.config.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- src Submodule -->
-		<summary><b>src</b></summary>
-		<blockquote>
-			<details>
-				<summary><b>components</b></summary>
-				<blockquote>
-					<details>
-						<summary><b>Trademark</b></summary>
-						<blockquote>
-							<details>
-								<summary><b>Home</b></summary>
-								<blockquote>
-									<table>
-									<tr>
-										<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Trademark/Home/TitleVerification.tsx'>TitleVerification.tsx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									</table>
-								</blockquote>
-							</details>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>Common</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Common/Navbar.tsx'>Navbar.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-							<details>
-								<summary><b>Loader</b></summary>
-								<blockquote>
-									<table>
-									<tr>
-										<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Common/Loader/index.tsx'>index.tsx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									</table>
-								</blockquote>
-							</details>
-							<details>
-								<summary><b>Inputs</b></summary>
-								<blockquote>
-									<table>
-									<tr>
-										<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Common/Inputs/index.tsx'>index.tsx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									</table>
-								</blockquote>
-							</details>
-							<details>
-								<summary><b>ResultCard</b></summary>
-								<blockquote>
-									<table>
-									<tr>
-										<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Common/ResultCard/index.tsx'>index.tsx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									</table>
-								</blockquote>
-							</details>
-							<details>
-								<summary><b>Buttons</b></summary>
-								<blockquote>
-									<table>
-									<tr>
-										<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Common/Buttons/index.tsx'>index.tsx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									</table>
-								</blockquote>
-							</details>
-							<details>
-								<summary><b>Table</b></summary>
-								<blockquote>
-									<table>
-									<tr>
-										<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Common/Table/index.tsx'>index.tsx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									</table>
-								</blockquote>
-							</details>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>Home</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Home/FeaturesSection.tsx'>FeaturesSection.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Home/HeroSection.tsx'>HeroSection.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Home/AboutUs.tsx'>AboutUs.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/components/Home/FAQ.tsx'>FAQ.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-						</blockquote>
-					</details>
-				</blockquote>
-			</details>
-			<details>
-				<summary><b>app</b></summary>
-				<blockquote>
-					<table>
-					<tr>
-						<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/app/layout.tsx'>layout.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
-					</tr>
-					<tr>
-						<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/app/globals.css'>globals.css</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
-					</tr>
-					</table>
-					<details>
-						<summary><b>similarity</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/app/similarity/page.tsx'>page.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>title-registration</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/app/title-registration/page.tsx'>page.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>title-verify</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/app/title-verify/page.tsx'>page.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>home</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Smart-India-Hackathon-24/trade-saarthi-frontend/blob/master/src/app/home/page.tsx'>page.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-						</blockquote>
-					</details>
-				</blockquote>
-			</details>
-		</blockquote>
-	</details>
-</details>
-
----
 ##  Getting Started
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
@@ -372,11 +155,5 @@ Run trade-saarthi-frontend using the following command:
 ##  License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
